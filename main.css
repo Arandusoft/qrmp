@@ -1,0 +1,13 @@
+@media all {
+    #qrcode img {
+        padding: 15px;
+    }
+
+    .page {
+        width: 512px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        font-size: 125%;
+    }
+}
